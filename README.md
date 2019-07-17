@@ -1,6 +1,6 @@
 PayCard JavaScript App, 18-07-2019 By Brenda Okumu
 
-Description https://brendaokumu.github.io/blackjack-js/
+Description https://brendaokumu.github.io/payCardApp/
 
 PayCardApp is an application that validates credit cards, in particular Visa and MasterCard for online purchases.
 
